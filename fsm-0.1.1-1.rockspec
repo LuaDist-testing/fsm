@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "fsm"
-version = "0.1.0-1"
+version = "0.1.1-1"
 -- LuaDist source
 source = {
-  tag = "0.1.0-1",
+  tag = "0.1.1-1",
   url = "git://github.com/LuaDist-testing/fsm.git"
 }
 -- Original source
 -- source = {
 --   url = "git://github.com/unindented/lua-fsm",
---   tag = "v0.1.0"
+--   tag = "v0.1.1"
 -- }
 description = {
   summary = "Simple FSM implementation.",
